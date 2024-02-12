@@ -1,2 +1,2 @@
-# Node-js-30-day-challenge
+# Node-js-45-day-challenge
 Node js
